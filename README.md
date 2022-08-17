@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts On Thr Min
+## Available Scripts On Thr M
 
 In the project directory, you can run:
 
